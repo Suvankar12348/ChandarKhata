@@ -1,0 +1,15 @@
+ChandarKhata/
+├── settings.gradle.kts
+├── build.gradle.kts
+├── gradle.properties
+├── README.md
+└── app/
+    ├── build.gradle.kts
+    └── src/main/
+        ├── AndroidManifest.xml
+        └── java/com/chandarkhata/app/
+            ├── MainActivity.kt
+            └── data/
+                ├── Models.kt
+                ├── KhataDao.kt
+                └── AppDatabase.kt
